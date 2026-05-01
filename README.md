@@ -5,7 +5,7 @@ A fully responsive GitHub Landing Page clone built using **HTML** and **Tailwind
 ---
 🌐 Live Demo
 
-🔗 https://your-live-demo-link.com
+🔗 http://fithub-landing-page.vercel.app
 
 ## 📖 Overview
 
